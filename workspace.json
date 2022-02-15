@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "hardhat": "packages/hardhat",
+    "hardhat-e2e": "e2e\\hardhat-e2e"
+  }
+}
